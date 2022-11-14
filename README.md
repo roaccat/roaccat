@@ -3,20 +3,16 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Berat, developer from Turkey.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Founder at [@capslockgames2022](https://github.com/capslockgames2022)
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Core team member at [@capslockgames2022](https://github.com/capslockgames2022)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HTML, BootStrap, C#
+- 👁️ SASS, CSS
+- 💽 MsSQL, MySQL
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [roaccat#1881](./) on Discord
