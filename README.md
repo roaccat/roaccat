@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Linux System Administration Project<br>👯 I’m looking to collaborate on C#<br>🤝 I’m looking for help with Linux System Administration Project<br>🌱 I’m currently learning C# WinForm<br>💬 Ask me about HTML & CSS & jQuery<br>⚡ Fun fact i'm taller than you.
+🔭 I’m currently working on Linux System Administration Project<br>👯 I’m looking to collaborate on C#<br>🤝 I’m looking for help with Linux System Administration Project<br>🌱 I’m currently learning Ansible<br>💬 Ask me about HTML & CSS & jQuery<br>⚡ Fun fact i'm taller than you.
 
 
 ## 🌐 Socials:
