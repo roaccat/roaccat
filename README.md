@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Linux System Administration Project<br>👯 I’m looking to collaborate on C#<br>🤝 I’m looking for help with Linux System Administration Project<br>🌱 I’m currently learning Ansible<br>💬 Ask me about HTML & CSS & BootStrap & C# and more!
+🔭 I’m currently working on JavaScript projects<br>👯 I’m looking to collaborate on JavaScript<br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about HTML & CSS & BootStrap & C# and more!
 
 
 ## 🌐 Socials:
